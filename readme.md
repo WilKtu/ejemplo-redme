@@ -4,5 +4,5 @@
 
 Esta es una prueba para crear el archivo readme de Github
 **Esta es una prueba para crear el archivo readme de Github**
-~~ Esta es una prueba para crear el archivo readme de Github ~~
+~~Esta es una prueba para crear el archivo readme de Github~~
 **Esta es una prueba para crear el archivo _readme_ de Github**
